@@ -416,10 +416,7 @@ Students are encouraged to:
 **Course Start:** November 30, 2025
 
 For questions or support:
-- 📧 Email: [your.email@example.com]
-- 💬 Discussion Forum: [Link to forum]
-- 🐛 Report Issues: [GitHub Issues]
-
+- 📧 Email: [alharazinaya@gmail.com]
 ---
 
 ## 📜 License
